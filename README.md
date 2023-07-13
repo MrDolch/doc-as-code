@@ -9,8 +9,8 @@ This project is **my** playground about software documentation.
 
 ## Audience
 
-Since I am native German, some content will be German.
 My content is addressed to software developers.
+Since I am native German, some content will be written in German.
 
 ## Product box
 
@@ -25,6 +25,7 @@ Also for whom the product is and what requirements are necessary to use it.
   Sometimes it is better to develop a new product instead of adding more complexity to an existing one.
 - If the project is new to you, you can tell at a glance from the product box what it does.
 - A gorgeous product box can be used as a recognizable logo in listings.
+- The size of the box is limitted so you need to focus on the most important things.
 
 ## Tool support
 
