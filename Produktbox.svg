@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="600" height="600"
+    viewBox="0 0 475 475">
+    <defs>
+        <style type="text/css">
+            <![CDATA[
+            svg {
+                filter: drop-shadow(10px 15px 5px rgb(0 0 0 / 0.4));
+            }
+
+            .side {
+                transform: scaleY(0.5);
+            }
+
+            #back {
+                fill: blue;
+                transform-origin: 200px 0px;
+                transform:
+                    rotateZ(-90deg) translate(-200px, -200px) skewX(-45deg);
+            }
+
+            #top {
+                fill: green;
+                transform: skewX(45deg);
+            }
+
+            #cover {
+                fill: red;
+                transform:
+                    translate(50px, 50px);
+            }
+            ]]>
+        </style>
+    </defs>
+    <g id="top">
+        <g class="side">
+            <rect class="inside" width="400" height="100" />
+            <text font-size="12" fill="#FFFFFF" text-anchor="left">
+                <tspan x="10" y="34" font-size="34">Produktname</tspan>
+                <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
+                <tspan x="10" y="66">- title which needs </tspan>
+                <tspan x="10" y="82">- wrapping </tspan>
+            </text>
+        </g>
+    </g>
+    <g id="back">
+        <g class="side">
+            <rect class="inside" width="400" height="100" />
+            <text font-size="12" fill="#FFFFFF" text-anchor="left">
+                <tspan x="10" y="34" font-size="34">Produktname</tspan>
+                <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
+                <tspan x="10" y="66">- title which needs </tspan>
+                <tspan x="10" y="82">- wrapping </tspan>
+            </text>
+        </g>
+    </g>
+    <g id="cover">
+        <rect class="inside" width="400" height="400" />
+
+        <image x="5" y="80" width="150" height="350"
+            href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Svg_example3.svg" />
+
+        <text font-size="12" fill="#FFFFFF" text-anchor="left">
+            <tspan x="10" y="34" font-size="34">Produktname</tspan>
+            <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
+            <tspan x="10" y="66">- title which needs </tspan>
+            <tspan x="10" y="82">- wrapping </tspan>
+        </text>
+
+        <text font-size="12" fill="#FFFFFF" text-anchor="left">
+            <tspan x="150" y="120" font-size="24">Purpose</tspan>
+            <tspan x="150" y="136">- Here a realy long </tspan>
+            <tspan x="150" y="152">- title which needs </tspan>
+            <tspan x="150" y="168">- wrapping </tspan>
+            <tspan x="150" y="184">- wrapping dsafjbsdajkfbsda </tspan>
+        </text>
+
+        <text font-size="12" fill="#FFFFFF" text-anchor="left">
+            <tspan x="150" y="220" font-size="24">Keyfeatures</tspan>
+            <tspan x="150" y="236">- Here a realy long </tspan>
+            <tspan x="150" y="252">- title which needs </tspan>
+            <tspan x="150" y="268">- wrapping </tspan>
+        </text>
+
+        <text font-size="12" fill="#FFFFFF" text-anchor="left">
+            <tspan x="150" y="320" font-size="24">Requirements</tspan>
+            <tspan x="150" y="336">- Here a realy long </tspan>
+            <tspan x="150" y="352">- title which needs </tspan>
+            <tspan x="150" y="368">- wrapping </tspan>
+        </text>
+    </g>
+</svg>
