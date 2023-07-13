@@ -1,9 +1,11 @@
 # doc-as-code
 _How to document code nowadays._
 
+<img alt="product box" src="Produktbox.svg" width="50" height="50" align="left">
+
 This project is **my** playground about software documentation. 
 
-{:toc}
+<br clear="all">
 
 ## Audience
 
