@@ -12,21 +12,24 @@
             }
 
             #back {
-                fill: blue;
+                fill: #985;
                 transform-origin: 200px 0px;
                 transform:
                     rotateZ(-90deg) translate(-200px, -200px) skewX(-45deg);
             }
 
             #top {
-                fill: green;
+                fill: #A96;
                 transform: skewX(45deg);
             }
 
             #cover {
-                fill: red;
+                fill: #DC8;
                 transform:
                     translate(50px, 50px);
+            }
+            #cover text{
+                fill: #000;
             }
             ]]>
         </style>
@@ -35,10 +38,10 @@
         <g class="side">
             <rect class="inside" width="400" height="100" />
             <text font-size="12" fill="#FFFFFF" text-anchor="left">
-                <tspan x="10" y="34" font-size="34">Produktname</tspan>
-                <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
-                <tspan x="10" y="66">- title which needs </tspan>
-                <tspan x="10" y="82">- wrapping </tspan>
+                <tspan x="10" y="34" font-size="34"></tspan>
+                <tspan x="10" y="50"></tspan>
+                <tspan x="10" y="66"></tspan>
+                <tspan x="10" y="82"></tspan>
             </text>
         </g>
     </g>
@@ -46,46 +49,44 @@
         <g class="side">
             <rect class="inside" width="400" height="100" />
             <text font-size="12" fill="#FFFFFF" text-anchor="left">
-                <tspan x="10" y="34" font-size="34">Produktname</tspan>
-                <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
-                <tspan x="10" y="66">- title which needs </tspan>
-                <tspan x="10" y="82">- wrapping </tspan>
+                <tspan x="10" y="34" font-size="34">doc-as-code - by Mr. Dolch</tspan>
+                <tspan x="10" y="50">inspired by doc-as-co.de</tspan>
+                <tspan x="10" y="66"></tspan>
+                <tspan x="10" y="82"></tspan>
             </text>
         </g>
     </g>
     <g id="cover">
         <rect class="inside" width="400" height="400" />
 
-        <image x="5" y="80" width="150" height="350"
-            href="https://upload.wikimedia.org/wikipedia/commons/e/e8/Svg_example3.svg" />
-
         <text font-size="12" fill="#FFFFFF" text-anchor="left">
-            <tspan x="10" y="34" font-size="34">Produktname</tspan>
-            <tspan x="10" y="50">Kurzbeschreibung, was das tolle Produkt so alles kann.</tspan>
-            <tspan x="10" y="66">- title which needs </tspan>
-            <tspan x="10" y="82">- wrapping </tspan>
+            <tspan x="10" y="34" font-size="44"> doc-as-code </tspan>
+            <tspan x="10" y="50"> This is my playground about software documentation. </tspan>
+            <tspan x="10" y="66"></tspan>
+            <tspan x="10" y="82"></tspan>
         </text>
 
         <text font-size="12" fill="#FFFFFF" text-anchor="left">
             <tspan x="150" y="120" font-size="24">Purpose</tspan>
-            <tspan x="150" y="136">- Here a realy long </tspan>
-            <tspan x="150" y="152">- title which needs </tspan>
-            <tspan x="150" y="168">- wrapping </tspan>
-            <tspan x="150" y="184">- wrapping dsafjbsdajkfbsda </tspan>
+            <tspan x="150" y="136"> - Clarify reason for documentation. </tspan>
+            <tspan x="150" y="152"> - Create useful docuumentation. </tspan>
+            <tspan x="150" y="168"> - Which tools support me? </tspan>
+            <tspan x="150" y="184"> - What are the benefits? </tspan>
         </text>
 
         <text font-size="12" fill="#FFFFFF" text-anchor="left">
             <tspan x="150" y="220" font-size="24">Keyfeatures</tspan>
-            <tspan x="150" y="236">- Here a realy long </tspan>
-            <tspan x="150" y="252">- title which needs </tspan>
-            <tspan x="150" y="268">- wrapping </tspan>
+            <tspan x="150" y="236"> - Easy to read and to change. </tspan>
+            <tspan x="150" y="252"> - Easy to deploy and to address. </tspan>
+            <tspan x="150" y="268"> - Easy to navigate to required information. </tspan>
+            <tspan x="150" y="284"> - Easy to keep up to date. </tspan>
         </text>
 
         <text font-size="12" fill="#FFFFFF" text-anchor="left">
             <tspan x="150" y="320" font-size="24">Requirements</tspan>
-            <tspan x="150" y="336">- Here a realy long </tspan>
-            <tspan x="150" y="352">- title which needs </tspan>
-            <tspan x="150" y="368">- wrapping </tspan>
+            <tspan x="150" y="336"> - No additional software should be needed. </tspan>
+            <tspan x="150" y="352"> - It runs on the given environment </tspan>
+            <tspan x="150" y="368"> &#160; of developer and company. </tspan>
         </text>
     </g>
 </svg>
