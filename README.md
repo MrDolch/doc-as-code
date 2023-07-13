@@ -19,7 +19,7 @@ Also for whom the product is and what requirements are necessary to use it.
 
 ![Product box](Produktbox.svg)
 
-### Purpose 
+### Purpose of Product box
 
 - If you plan to add new features to the product, you can look here to see if it fits at all.
   Sometimes it is better to develop a new product instead of adding more complexity to an existing one.
