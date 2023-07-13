@@ -26,7 +26,7 @@ Also for whom the product is and what requirements are necessary to use it.
 - If the project is new to you, you can tell at a glance from the product box what it does.
 - A gorgeous product box can be used as a recognizable logo in listings.
 
-### Tool support
+## Tool support
 
 - ✎ : editable
 - ✓ : properly rendered
