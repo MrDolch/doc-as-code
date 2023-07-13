@@ -76,8 +76,8 @@
 
         <text font-size="12" fill="#FFFFFF" text-anchor="left">
             <tspan x="150" y="220" font-size="24">Keyfeatures</tspan>
-            <tspan x="150" y="236"> - Easy to read and to change. </tspan>
-            <tspan x="150" y="252"> - Easy to deploy and to address. </tspan>
+            <tspan x="150" y="236"> - Easy to read and maintain. </tspan>
+            <tspan x="150" y="252"> - Easy to deploy and address. </tspan>
             <tspan x="150" y="268"> - Easy to navigate to required information. </tspan>
             <tspan x="150" y="284"> - Easy to keep up to date. </tspan>
         </text>
