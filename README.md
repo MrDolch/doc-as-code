@@ -32,12 +32,12 @@ Also for whom the product is and what requirements are necessary to use it.
 - ✓ : properly rendered
 - ✕ : not rendered
 
-| Source \ Tool | GitHub | GitLab | BitBucket | Intellij | Visual Code | ✇ Firefox | ✇ Chrome | ✉ Outlook | ✉ Android | ✉ IOS |
-|---------------|--------|--------|-----------|----------|-------------|---------|--------|-----------|-----------|-------|
-| Markdown      | ✎      | ✎      | ✎         | ✎        | ✎           | ✕         | ✕        | ✕         | ✕         | ✕     |
-| AsciiDocs     | ✎      | ✎      | ✕         | ✎        | ✎           | ✕         | ✕        | ✕         | ✕         | ✕     |
-| SVG           | ✎      | ✎      |           | ✎        | ✎           | ✓         | ✓        | ✕         | ✕         | ✕     |
-| JavaDoc       | ✕      | ✕      | ✕         | ✎        | ✕           |           |          |           |           |       |
-| PDF           |        |        |           |          |             |           |          | ✓         | ✓         |       |
-| RTF           |        |        |           |          |             |           |          | ✓         |           |       |
+| Source \ Tool | 🗁 GitHub | 🗁 GitLab | 🗁 BitBucket | 🛠 Intellij | 🛠 Visual Code | ✇ Firefox | ✇ Chrome | ✉ Outlook | ✉ Android | ✉ IOS |
+|---------------|----------|----------|-------------|------------|---------------|-----------|----------|-----------|-----------|-------|
+| Markdown      | ✎        | ✎        | ✎           | ✎          | ✎             | ✕         | ✕        | ✕         | ✕         | ✕     |
+| AsciiDocs     | ✎        | ✎        | ✕           | ✎          | ✎             | ✕         | ✕        | ✕         | ✕         | ✕     |
+| SVG           | ✎        | ✎        |             | ✎          | ✎             | ✓         | ✓        | ✕         | ✕         | ✕     |
+| JavaDoc       | ✕        | ✕        | ✕           | ✎          | ✕             |           |          |           |           |       |
+| PDF           |          |          |             |            |               |           |          | ✓         | ✓         |       |
+| RTF           |          |          |             |            |               |           |          | ✓         |           |       |
 
