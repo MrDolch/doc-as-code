@@ -29,11 +29,15 @@ Also for whom the product is and what requirements are necessary to use it.
 ### Tool support
 
 - ✎ : editable
-- ✓ : viewable
-- ✕ : not viewable
+- ✓ : properly rendered
+- ✕ : not rendered
 
 | Source \ Tool | GitHub | GitLab | BitBucket | Intellij | Visual Code | Firefox | Chrome | Outlook | Android | IOS |
 |---------------|--------|--------|-----------|----------|-------------|---------|--------|---------|---------|-----|
 | Markdown      | ✎      | ✎      | ✎         | ✎        | ✎           | ✕       | ✕      | ✕       | ✕       | ✕   |
 | AsciiDocs     | ✎      | ✎      | ✕         | ✎        | ✎           | ✕       | ✕      | ✕       | ✕       | ✕   |
 | SVG           | ✎      | ✎      |           | ✎        | ✎           | ✓       | ✓      | ✕       | ✕       | ✕   |
+| JavaDoc       | ✕      | ✕      | ✕         | ✎        | ✕           |         |        |         |         |     |
+| PDF           |        |        |           |          |             |         |        | ✓       | ✓       |     |
+| RTF           |        |        |           |          |             |         |        | ✓       |         |     |
+
