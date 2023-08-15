@@ -14,7 +14,7 @@ Rollen und Dokumentationsmittel:
 
 ## Form of documentation at the way from developer to customer
 
-| Software developer | Requirement engineer <br> Product owner | Customer |
-|--------------------|-----------------------------------------|----------|
-| - Product demo <br> - Abnahmetest | - Wiki <br> - Emails | - running Product <br> - Wiki <br> - Emails |
+| Software developer | Requirement engineer <br> Product owner | Customer <br> Product user |
+|--------------------|-----------------------------------------|----------------------------|
+| - Product demo <br> - Abnahmetest | - Wiki <br> - Emails | - running Product <br> - Manual <br> - Wiki <br> - Emails |
 
