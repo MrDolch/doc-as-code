@@ -48,5 +48,5 @@ Also for whom the product is and what requirements are necessary to use it.
 |               |          |          |             |              |            |               |           |          |           |           |       |
 
 Since I depend on BitBucket and Intellij, I use Markdown and SVG.
-I also use PlantUMl-Digrams but I convert them to SVG in order to see them in BitBucket.
-When I need to email documentation to non-developers, then I render it as PDF. Markdown files are hardly to open on office desktops or mobile devices.
+I also use PlantUML-Digrams but I convert them to SVG or PNG in order to see them in BitBucket.
+When I need to email documentation to non-developers, e.g. lawyers, then I render it as PDF. Markdown files are hardly to open on office desktops or mobile devices.
